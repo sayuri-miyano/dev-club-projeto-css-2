@@ -5,7 +5,7 @@
 <p>Foi o segundo projeto com CSS me aprofundando mais nas técnicas de posicionamento</p>
 <img src="https://github.com/sayuri-miyano/dev-club-projeto-css-2/blob/main/img/projeto%20css%202.png?raw=true"></img>
 <br>
-<p>Além das técnicas de posicionamento, aprendi a transformar o design compatível com devices.</p>
+<p>Além das técnicas de posicionamento, aprendi a transformar o design compatível com mobile</p>
 <br>
 <img src="https://github.com/sayuri-miyano/dev-club-projeto-css-2/blob/main/img/projeto%20css%202%20mobile.png?raw=true"></img>
 <h3>Tecnologias Utilizadas</h3>
